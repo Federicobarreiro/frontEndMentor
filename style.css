@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(./assets/image-mobile.jpg);
+    background-image: url(./assets/imagemobile.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -94,7 +94,7 @@ footer {
 @media screen and (max-width: 375px) {
     
     body {
-    background-image: url(./assets/image-mobile.jpg);
+    background-image: url(./assets/imagemobile.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -104,7 +104,7 @@ footer {
 @media screen and (min-width: 376px) and (max-width: 768px) {
     
   body {
-    background-image: url(./assets/image-host.jpg);
+    background-image: url(./assets/imagehost.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -179,7 +179,7 @@ footer {
 @media screen and (min-width: 769px) {
 
    body{
-        background-image: url(./assets/image-desktop.jpg);
+        background-image: url(./assets/imagedesktop.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover; 
