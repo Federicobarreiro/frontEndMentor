@@ -66,7 +66,7 @@ p {
 }
 
 input {
-   margin: 2vh;
+   margin-top: 2vh;
    border-radius: 1rem;
    border: none;
    padding: 2vh;
@@ -75,10 +75,12 @@ input {
 
 #email {
    background: #2b344b;
+   width: 100%;
 }
 
 #submit {
     background: #71e7af;
+    width: 100%;
 }
 
 #error {
